@@ -1,0 +1,10 @@
+body {
+  background-image: url(/img/bg.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#loading,
+#results {
+  display: none;
+}
